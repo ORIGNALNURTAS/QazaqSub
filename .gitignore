@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Whisper моделінің кэші (өте үлкен, GitHub-қа салмау керек)
+.cache/
+
+# Уақытша видео/аудио/субтитр файлдары
+temp/
+
+# IDE
+.vscode/
+.idea/
+
+# Айнымалылар (API кілттері, т.б.)
+.env
+
+# ОС файлдары
+.DS_Store
